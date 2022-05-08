@@ -1,0 +1,19 @@
+.. grid:: 1 1 2 2
+    :gutter: 0
+
+    .. grid-item::
+
+        .. card::
+            :img-background: media/oroville_crop-scaled.jpg
+
+    .. grid-item::
+
+        .. card::
+            :img-background: media/sanluis_crop-scaled.jpg
+
+
+Research 
+==========================================
+
+I am interested in understanding how operational and financial decision-making can be improved within water-energy-food systems characterized by high uncertainty and complex, dynamic behavior. Organizations within these systems (e.g., water utilities, hydropower producers, irrigators) can experience both water supply risks and financial risks as a result of natural hydrologic variability. This can be very disruptive in the short term and can endanger their viability in the long term, especially when combined with uncertain future changes in the climate, markets, and regulations. My research aims to better characterize these risks and then develop strategies for managing them. Such strategies can combine physical tools, such as infrastructure, with financial tools, such as reserve funds and hydrology-based parametric insurance contracts. Risk management can also be improved by integrating different information sources and forecasts into comprehensive, adaptive decision-making frameworks. I employ a variety of computational tools in this work, including simulation modeling, statistical analysis, multi-objective optimization and control, sensitivity analysis, visual analytics, and high-performance computing.
+

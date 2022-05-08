@@ -1,0 +1,22 @@
+.. grid:: 1 1 2 2
+    :gutter: 0
+
+    .. grid-item::
+
+        .. card::
+            :img-background: media/sacriver_crop-scaled.jpg
+
+    .. grid-item::
+
+        .. card::
+            :img-background: media/lariver_crop-scaled.jpg
+
+[2021-04-23] New paper (led by H.B. Zeff) in Environmental Modelling & Software
+=================
+
+Check out our new paper, led by my colleague Dr. H.B. Zeff, `in Environmental Modelling and Software <https://doi.org/10.1016/j.envsoft.2021.105052>`_: "California's food-energy-water system: An open source simulation model of adaptive surface and groundwater management in the Central Valley". 
+
+**Abstract**
+
+This study introduces the California Food-Energy-Water System (CALFEWS) simulation model to describe the integrated, multi-sector dynamics that emerge from the coordinated management of surface and groundwater supplies throughout California's Central Valley. The CALFEWS simulation framework links the operation of state-wide, interbasin transfer projects (i.e., State Water Project, Central Valley Project) with coordinated water management strategies abstracted to the scale of irrigation/water districts. This study contributes a historic baseline (October 1996–September 2016) evaluation of the model's performance against observations, including reservoir storage, inter-basin transfers, environmental endpoints, and groundwater banking accounts. State-aware, rules-based representations of critical component systems enable CALFEWS to simulate adaptive management responses to alternative climate, infrastructure, and regulatory scenarios. Moreover, CALFEWS has been designed to maintain interoperability with electric power dispatch and agricultural production models. As such, CALFEWS provides a platform to evaluate internally consistent scenarios for the integrated management of water supply, energy generation, and food production.
+
