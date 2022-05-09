@@ -68,8 +68,8 @@ html_sidebars = {
 #    "relations.html",
 #    "searchbox.html",
 ### custom html in _templates
-    "contact.html",
-    "twitter.html"
+#    "contact.html",
+#    "twitter.html"
   ]
 }
 
@@ -79,3 +79,4 @@ html_sidebars = {
 
 #html_css_files = ['my-styles.css']
 
+#master_doc = "contents"

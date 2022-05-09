@@ -1,0 +1,8 @@
+.. toctree::
+   :maxdepth: 1
+
+   research
+   publications
+   teaching
+   news
+   cv
