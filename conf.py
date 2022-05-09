@@ -67,8 +67,9 @@ html_sidebars = {
 #    "navigation.html",
 #    "relations.html",
 #    "searchbox.html",
-#    "donate.html",
-#    "contact"
+### custom html in _templates
+    "contact.html",
+    "twitter.html"
   ]
 }
 

@@ -1,0 +1,24 @@
+.. grid:: 1 1 2 2
+    :gutter: 0
+
+    .. grid-item::
+
+        .. card::
+            :img-background: media/sacriver_crop-scaled.jpg
+
+    .. grid-item::
+
+        .. card::
+            :img-background: media/lariver_crop-scaled.jpg
+
+[2022-01-05] New paper in Water Resources Research
+==============
+
+I'm excited to announce our newest paper in Water Resources Research:
+
+Hamilton, A. L., Characklis, G. W., & Reed, P. M. (2022). From stream flows to cash flows: Leveraging Evolutionary Multi-Objective Direct Policy Search to manage hydrologic financial risks. *Water Resources Research, 58*, e2021WR029747. DOI: `10.1029/2021WR029747 <http://dx.doi.org/10.1029/2021WR029747>`_.
+
+**Abstract**
+
+Hydrologic variability can present severe financial challenges for organizations that rely on water for the provision of services, such as water utilities and hydropower producers. While recent decades have seen rapid growth in decision-support innovations aimed at helping utilities manage hydrologic uncertainty for multiple objectives, support for managing the related financial risks remains limited. However, the mathematical similarities between multi-objective reservoir control and financial risk management suggest that the two problems can be approached in a similar manner. This paper demonstrates the utility of Evolutionary Multi-Objective Direct Policy Search (EMODPS) for developing adaptive policies for managing the drought-related financial risk faced by a hydropower producer. These policies dynamically balance a portfolio, consisting of snowpack-based financial hedging contracts, cash reserves, and debt, based on evolving system conditions. Performance is quantified based on four conflicting objectives, representing the classic tradeoff between "risk" and "return" in addition to decision-makers' unique preferences towards different risk management instruments. The dynamic policies identified here significantly outperform static management formulations that are more typically employed for financial risk applications in the water resources literature. Additionally, this paper combines visual analytics and information theoretic sensitivity analysis to help decision-makers better understand how different candidate policies achieve their comparative advantages through differences in how they adapt to real-time information. The methodology developed in this paper should be applicable to any organization subject to financial risk stemming from hydrology or other environmental variables (e.g., wind speed, insolation), including electric utilities, water utilities, agricultural producers, and renewable energy developers.
+
