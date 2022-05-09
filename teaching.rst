@@ -1,17 +1,3 @@
-.. grid:: 1 1 2 2
-    :gutter: 0
-
-    .. grid-item::
-
-        .. card::
-            :img-background: media/farms_crop-scaled.jpg
-
-    .. grid-item::
-
-        .. card::
-            :img-background: media/grapes_crop-scaled.jpg
-
-
 Teaching & Software
 ==========================================
 

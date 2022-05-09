@@ -1,17 +1,3 @@
-.. grid:: 1 1 2 2
-    :gutter: 0
-
-    .. grid-item::
-
-        .. card::
-            :img-background: media/oroville_crop-scaled.jpg
-
-    .. grid-item::
-
-        .. card::
-            :img-background: media/sanluis_crop-scaled.jpg
-
-
 Research 
 ==========================================
 

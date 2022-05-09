@@ -1,17 +1,3 @@
-.. grid:: 1 1 2 2
-    :gutter: 0
-
-    .. grid-item::
-
-        .. card::
-            :img-background: media/fkc_crop-scaled.jpg
-
-    .. grid-item::
-
-        .. card::
-            :img-background: media/calaqMojave_crop-scaled.jpg
-
-
 Publications
 ==========================================
 

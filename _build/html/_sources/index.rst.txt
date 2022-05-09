@@ -4,22 +4,6 @@
    contain the root `toctree` directive.
 
 
-.. grid:: 1 1 2 2  
-    :gutter: 0
-
-    .. grid-item::
-
-        .. card:: 
-            :img-background: media/yosemite_crop-scaled.jpg
-
-    .. grid-item::
-
-        .. card::
-            :img-background: media/SierraEscarpmentCA_crop.jpg
-
-
-
-
 About me
 ......
 
