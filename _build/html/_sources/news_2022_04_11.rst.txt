@@ -1,0 +1,24 @@
+.. grid:: 1 1 2 2
+    :gutter: 0
+
+    .. grid-item::
+
+        .. card::
+            :img-background: media/sacriver_crop-scaled.jpg
+
+    .. grid-item::
+
+        .. card::
+            :img-background: media/lariver_crop-scaled.jpg
+
+[2022-04-11] New paper in Earth's Future
+==============
+
+Check out our new paper published open access in Earth's Future:
+
+Hamilton, A. L., Zeff, H. B., Characklis, G. W., & Reed, P. M. (2022). Resilient California water portfolios require infrastructure investment partnerships that are viable for all partners. *Earth's Future, 10* (4), e2021EF002573. DOI: `10.1029/2021EF002573 <https://doi.org/10.1029/2021EF002573>`_.
+
+**Abstract**
+
+Water scarcity is a growing problem around the world, and regions such as California are working to develop diversified, interconnected, flexible, and resilient water supply portfolios. To meet these goals, water utilities, irrigation districts, and other organizations will need to cooperate across scales to finance, build, and operate shared water supply infrastructure. However, planning studies to date have generally focused on partnership-level outcomes (i.e., highly aggregated cost-benefit analyses), while ignoring the heterogeneity of benefits, costs, and risks across the individual partners. This study contributes an exploratory modeling analysis that tests thousands of alternative infrastructure partnerships in the Central Valley of California, using a daily-scale simulation model (CALFEWS) to evaluate the effects of new infrastructure on individual water providers. The viability of conveyance and groundwater banking investments are as strongly shaped by partnership design choices (i.e., which water providers are participating, and how is the project’s debt distributed?) as by extreme hydrologic conditions (i.e., floods and droughts). Importantly, most of the analyzed partnerships yield highly unequal distributions of water supply and financial risks across the partners, so that only 8% of the partnerships explored are capable of providing water to each partner for under $200/ML. Partnership viability is especially rare in the absence of groundwater banking facilities (1%), or under dry hydrologic conditions (1%), even under explicitly optimistic assumptions regarding climate change. Given these results, we outline several major policy implications for institutionally complex regions such as California, which are currently investing heavily in cooperative approaches to resilient water portfolio design.
+

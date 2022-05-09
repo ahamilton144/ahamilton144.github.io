@@ -1,0 +1,24 @@
+.. grid:: 1 1 2 2
+    :gutter: 0
+
+    .. grid-item::
+
+        .. card::
+            :img-background: media/farms_crop-scaled.jpg
+
+    .. grid-item::
+
+        .. card::
+            :img-background: media/grapes_crop-scaled.jpg
+
+
+Teaching & Software
+==========================================
+
+Environmental science, engineering, and public health increasingly demand that scholars and practitioners acquire technical skills in data analysis and computing, in addition to deep domain-specific knowledge. I have had the opportunity to develop and teach a course on "Python for Environmental Research" at UNC (ENVR 890-001 Fall 2020, 890-010 Fall 2021). The course covers basic introductory material, such as Jupyter Notebooks, data structures, programming logic, visualization, and regression, as well as more advanced topics such as simulation modeling, time series analysis, and GIS. I am a believer in the power of "learning by doing," and we take an applications-focused approach. Each topic is introduced using examples from environmental science and public health (e.g., reservoir operations, air quality monitoring, environmental justice, and COVID-19). You can download all course materials as a collection of Jupyter Notebooks `here <https://github.com/ahamilton144/Python-For-Environmental-Research>`_.
+
+Additionally, I have delivered guest lectures in `"Analysis of Water Resource Systems" <http://gregcharacklis.web.unc.edu/envr-755-analysis-of-water-resource-systems/>`_ (ENVR 755) on various occasions, covering topics in water resource economics and policy, reservoir simulation, and linear programming. I have helped to grade assignments for this class for two semesters.
+
+I am also a proponent of FAIR (Findable, Accessible, Interoperable, and Reusable) data and open-source software in research. I do my best to make all data and code from my research available on `my GitHub page <https://github.com/ahamilton144>`_, along with instructions for reproducing all analyses and figures. I have helped to train colleagues on open-source tools by developing tutorials on Git and Cython.  A `FAIR Cyber Training Fellowship <https://mygeohub.org/cybertraining/fellowship>`_ also allowed me to better incorporate these principles into my teaching and my research - I worked to make our California water resources simulation model (CALFEWS) more user-friendly and FAIR, and developed a GUI-based educational tool that allows stakeholders with no programming experience to run different scenarios and visualize time series of interest, such as reservoir releases, surface water deliveries, and groundwater banking.
+
+
