@@ -4,6 +4,7 @@ News
 .. toctree::
    :maxdepth: 1
 
+   news_2022_05_12
    news_2022_04_11
    news_2022_01_05
    news_2021_11_18_phdone
