@@ -1,0 +1,5 @@
+[2022-06-15] Presentation at EWRI 2022
+==============
+
+Last week I presented at the 2022 ASCE EWRI World Congress on our latest work on resilient partnership design for water infrastructure investments in California, with Rohini Gupta, HB Zeff, Patrick Reed, and Greg Characklis. If you missed it, you can find my slides `on Zenodo <https://zenodo.org/record/6628910#.YqngOHbMK39>`_.
+
