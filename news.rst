@@ -4,6 +4,7 @@ News
 .. toctree::
    :maxdepth: 1
 
+   news_2022_08_25_LATimes
    news_2022_06_23_fihm2022
    news_2022_06_15_jwrpmBestReviewer
    news_2022_06_15_ewri2022

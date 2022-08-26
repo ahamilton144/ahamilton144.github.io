@@ -1,5 +1,5 @@
 [2022-05-12] NPR coverage and AGU Research Spotlight for Earth's Future paper
 ==============
 
-Our recent `open access paper in Earth's Future <https://doi.org/10.1029/2021EF002573>`_ has been covered in serveral outlets, including a `radio piece and accompanying web article <https://www.kvpr.org/environment/2022-05-11/study-warns-of-potential-inequities-from-water-infrastructure-investments>`_ by Kerry Klein from NPR for Central California (KVPR), and an `AGU Research Spotlight <https://eos.org/research-spotlights/assessing-water-infrastructure-investments-in-california>`_ by Terri Cook in EOS Magazine.
+Our recent `open access paper in Earth's Future <https://doi.org/10.1029/2021EF002573>`_ has been covered in several outlets, including a `radio piece and accompanying web article <https://www.kvpr.org/environment/2022-05-11/study-warns-of-potential-inequities-from-water-infrastructure-investments>`_ by Kerry Klein from NPR for Central California (KVPR), and an `AGU Research Spotlight <https://eos.org/research-spotlights/assessing-water-infrastructure-investments-in-california>`_ by Terri Cook in EOS Magazine.
 
