@@ -1,5 +1,5 @@
 [2022-06-23] Presentation at FIHM 2022
 ==============
 
-Yesterday I presented in the "Hydrocomplexity" session at the 2022 AGU Frontiers in Hydrology Meeting. My presentation was titled "Exploring the challenges facing California in achieving resilient water portfolios under climatic, economic, and regulatory uncertainty," with Rohini Gupta, HB Zeff, Patrick Reed, and Greg Characklis. 
+Yesterday I presented in the "Hydrocomplexity" session at the `2022 AGU Frontiers in Hydrology Meeting <https://www.agu.org/FIHM>`_. My presentation was titled "Exploring the challenges facing California in achieving resilient water portfolios under climatic, economic, and regulatory uncertainty," with Rohini Gupta, HB Zeff, Patrick Reed, and Greg Characklis. 
 

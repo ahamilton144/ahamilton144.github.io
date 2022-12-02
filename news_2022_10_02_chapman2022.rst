@@ -1,5 +1,5 @@
 [2022-10-02] Presentation at AGU Chapman Conference on Water Availability
 ==============
 
-I recently had the opportunity to attend the 2022 AGU Chapman Conference on Solving Water Availability Challenges through an Interdisciplinary Framework, held in Golden, CO. My presentation was entitled "How do natural, engineered, and institutional scales impact water availability and infrastructure investment within complex, interconnected water supply systems?" with HB Zeff, Rohini Gupta, Pat Reed, and Greg Characklis. 
+I recently had the opportunity to attend the `2022 AGU Chapman Conference on Solving Water Availability Challenges through an Interdisciplinary Framework <https://www.agu.org/Chapmans-Water-Availability>`_, held in Golden, CO. My presentation was entitled "How do natural, engineered, and institutional scales impact water availability and infrastructure investment within complex, interconnected water supply systems?" with HB Zeff, Rohini Gupta, Pat Reed, and Greg Characklis. 
 
