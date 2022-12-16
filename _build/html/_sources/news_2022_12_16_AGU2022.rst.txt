@@ -1,0 +1,9 @@
+[2022-12-16] Presentations at 2022 AGU Fall Meeting
+==============
+
+I presented two talks this year at the `2022 Fall Meeting of the American Geophysical Union <https://www.agu.org/fall-meeting/>`_ in Chicago, IL. 
+
+1. "Integrated human system complexity into water supply planning and risk assessment with exploratory modeling (Invited)" with Pat Reed, HB Zeff, and Greg Characklis. The slides for this presentation are `available on Zenodo <https://t.co/odNjr6lK7A/>`_.
+
+2. "Discovering robust infrastructure investment partnerships to meet California's water portfolio goals" with Rohini Gupta, Pat Reed, HB Zeff, and Greg Characklis. 
+

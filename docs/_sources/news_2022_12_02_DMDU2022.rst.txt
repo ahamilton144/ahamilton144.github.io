@@ -1,5 +1,5 @@
 [2022-12-02] Presentation at 2022 DMDU Meeting
 ==============
 
-I recently had the opportunity to attend the 2022 Annual Meeting of the Society for Decision Making Under Deep Uncertainty (DMDU), held in Mexico City, Mexico. My presentation was entitled "Key challenges for defining and designing robust infrastructure partnerships in deeply uncertain many-actor water supply networks," with Rohini Gupta, Pat Reed, HB Zeff, and Greg Characklis. 
+Last month I had the opportunity to attend the `2022 Annual Meeting <https://www.2022dmdu.org/>`_ of the Society for Decision Making Under Deep Uncertainty (DMDU), held in Mexico City, Mexico. I presented on "Key challenges for defining and designing robust infrastructure partnerships in deeply uncertain many-actor water supply networks," with Rohini Gupta, Pat Reed, HB Zeff, and Greg Characklis. 
 
