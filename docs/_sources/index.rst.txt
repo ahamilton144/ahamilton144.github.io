@@ -7,7 +7,7 @@
 About me
 ......
 
-.. image:: media/me.jpg
+.. image:: media/headshot_compressed.jpg
         :align: left
         :width: 120px        
 
