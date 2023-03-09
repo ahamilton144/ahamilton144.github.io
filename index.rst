@@ -9,7 +9,7 @@ About me
 
 .. image:: media/headshot_compressed.jpg
         :align: left
-        :width: 120px        
+        :width: 180px        
 
 Hello! I am a postdoctoral researcher in Civil and Environmental Engineering at Cornell University, working with Professor Pat Reed’s `Decision Analytics for Complex Systems <https://reed.cee.cornell.edu>`_ group. I completed my PhD in Environmental Sciences and Engineering at the University of North Carolina at Chapel Hill, where I worked with Professor Greg Characklis at the `Center on Financial Risk in Environmental Systems <https://sph.unc.edu/cfres/center-on-financial-risk-in-environmental-systems>`_. Before coming to UNC, I earned a Masters in Environmental Management at Duke University, specializing in Water Resources Management and Geospatial Analysis. Additionally, I have an MS in Materials from UC-Santa Barbara and a BSE in Engineering Physics and Mathematics from Tulane University.
 
