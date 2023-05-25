@@ -4,6 +4,7 @@ News
 .. toctree::
    :maxdepth: 1
 
+   news_2023_05_25_EWRI2023
    news_2022_12_16_AGU2022
    news_2022_12_02_DMDU2022
    news_2022_10_02_chapman2022
